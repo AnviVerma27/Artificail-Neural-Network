@@ -1,1 +1,1 @@
-# Artificail-Neural-Network
+# Artificial-Neural-Network
